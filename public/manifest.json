@@ -1,0 +1,26 @@
+{
+  "short_name": "WT Test Front",
+  "name": "Wunderman Thompson / Test Frontend",
+  "icons": [
+    {
+      "src": "assets/wt-logo.png",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/shape1.svg",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "assets/shape2.svg",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "assets/shape3.svg",
+      "type": "image/svg+xml"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

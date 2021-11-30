@@ -79,6 +79,7 @@ const Form = () => {
             setErrors={setErrors}
           />
           <Input
+            id="tac"
             name="tac"
             className="w-50"
             type="checkbox"

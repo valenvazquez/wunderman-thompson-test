@@ -21,6 +21,10 @@
 
 .w-50 {
   width: calc(50% - 16px);
+
+  @media (max-width: 664px) {
+    width: 100%;
+  }
 }
 
 .w-100 {
